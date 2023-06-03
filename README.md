@@ -1,2 +1,1 @@
-# assets
-Our brand assets
+# Our brand assets
